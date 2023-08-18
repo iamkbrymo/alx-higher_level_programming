@@ -1,1 +1,1 @@
-Exploring python
+SQL Tasks
